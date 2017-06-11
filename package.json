@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@glimmer/syntax": "^0.23.0-alpha.17",
+    "typescript": "^2.3.4"
+  }
+}
